@@ -1,0 +1,6 @@
+Order Status: You can track your order in the orders section.
+Refund Policy: Refunds are processed within 5-7 business days.
+Payment Issues: Payments may fail due to insufficient balance or network issues.
+Cancel Order: Orders can be cancelled before shipment.
+Delivery Time: Orders are delivered within 3-5 business days.
+Customer Support: Support is available 24/7.
